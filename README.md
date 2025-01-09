@@ -31,9 +31,8 @@ Save the code in a file,  bmi_calculator.go.
 Open a terminal and navigate to the file's directory.
 
 
-Run the following commands:
-
-bash: go run bmi_calculator.go
+Run the following commands
+bash:  go run bmi_calculator.go
 
 
 Input your weight and height as prompted.
