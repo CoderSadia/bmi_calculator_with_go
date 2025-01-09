@@ -19,4 +19,21 @@ Overweight : 25 ≤ BMI < 29.9
 
 Obese : BMI ≥ 30 
 
-Simple and user-friendly command-line interface.
+Simple and user-friendly command-line interface. 
+
+
+# Running the Program :
+
+
+Save the code in a file,  bmi_calculator.go.
+
+
+Open a terminal and navigate to the file's directory.
+
+
+Run the following commands:
+
+bash: go run bmi_calculator.go
+
+
+Input your weight and height as prompted.
